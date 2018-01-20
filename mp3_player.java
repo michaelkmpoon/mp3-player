@@ -6,7 +6,7 @@
 /*                                                                                      */
 /*--------------------------------------------------------------------------------------*/
 /*  Author: Michael Poon                                                                */
-/*  Date: March 2015                                                                    */
+/*  Date: March 2016                                                                    */
 /*--------------------------------------------------------------------------------------*/
 /*  Input: Open user file, make selections                                              */
 /*  Output: Username, Song, Artist's Name, Category, Play Music, etc.                   */
